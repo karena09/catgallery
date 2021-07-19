@@ -1,0 +1,75 @@
+body {
+    text-align: center;
+    background: linear-gradient(blanchedalmond, #ffbe54);
+    background-repeat: no-repeat;
+    align-content: center;
+
+}
+
+h1 {
+    color: darkorange !important;
+    font-size: 60px !important;
+    font-family: 'Annie Use Your Telescope', cursive !important;
+}
+
+
+#menu ul {
+    list-style: none;
+    word-spacing: 10px;
+    margin: 5px;
+}
+
+#menu li {
+    display: inline-block;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    transition: 0.5s;
+    color: darkorange;
+    border-style: solid;
+    border-color: darkorange;
+    padding: 3px;
+    text-decoration: none;
+}
+
+#menu li:hover {
+    background-color: orange;
+    font-style: none;
+    text-decoration: none;
+}
+
+
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+#pic1 {
+    padding: 40px;
+}
+
+#pic2 {
+    padding: 40px;
+}
+
+#pic3 {
+    padding: 40px;
+}
+
+#pic4 {
+    padding: 40px;
+}
+
+#pic5 {
+    padding: 40px;
+}
+
+#pic6 {
+    padding: 40px;
+}
+
+p {
+    font-size: 20px;
+}
+
